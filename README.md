@@ -1,4 +1,4 @@
-# Tally — track what you spend, not what you meant to
+# Tally — Track what you spend, not what you meant to
 
 Built for Vibeathon, MicroCraft's solo coding hackathon.
 
